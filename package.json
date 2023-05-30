@@ -28,7 +28,7 @@
 		"@neoconfetti/svelte": "^1.0.0",
 		"@vueuse/core": "^10.1.2",
 		"@widgetbot/html-embed": "^1.2.1",
-		"firebase": "9.22.0"
+		"firebase": "9.22.1"
 	},
 	"simple-git-hooks": {
 		"pre-commit": "pnpm exec lint-staged --concurrent false"
