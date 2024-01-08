@@ -16,7 +16,7 @@
 		"autoprefixer": "^10.4.11",
 		"lint-staged": "^13.0.3",
 		"nuxt": "3.5.2",
-		"postcss": "^8.4.16",
+		"postcss": "^8.4.33",
 		"prettier": "^2.7.1",
 		"sass": "^1.54.9",
 		"simple-git-hooks": "^2.8.0",
